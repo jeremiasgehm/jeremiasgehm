@@ -1,16 +1,16 @@
-### Hi there 👋
+# About Me
+Um entusiasta de dados e programação. Atualmente, trabalho com ciência de dados e visualização de dados, onde aplico minhas habilidades em Python, SQL, HTML, CSS, Java e JavaScript para criar previsões de dados e análises significativas.
 
-<!--
-**jeremiasgehm/jeremiasgehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Python**
+- **SQL**
+- **HTML/CSS**
+- **Java**
+- **JavaScript**:
 
-Here are some ideas to get you started:
+## Projetos
+- **Data Forecasting App**: Um aplicativo web para previsão de dados usando Python e visualização com Plotly.
+- **Data Science Dashboard**: Um dashboard interativo para visualização de dados utilizando HTML, CSS e JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jeremiasgehm/)
+- **E-mail**: jeremiasgehm@gmail.com
