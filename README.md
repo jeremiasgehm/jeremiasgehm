@@ -10,7 +10,3 @@ Um entusiasta de dados e programação. Atualmente, trabalho com ciência de dad
 ## Projetos
 - **Data Forecasting App**: Um aplicativo web para previsão de dados usando Python e visualização com Plotly.
 - **Data Science Dashboard**: Um dashboard interativo para visualização de dados utilizando HTML, CSS e JavaScript.
-
-## Contato
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jeremiasgehm/)
-- **E-mail**: jeremiasgehm@gmail.com
